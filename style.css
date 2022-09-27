@@ -1,0 +1,45 @@
+            * {
+                margin: 0;
+            }
+            
+            header {
+                width: 100%;
+                height: 70px;
+                text-align: center;
+                background-color: antiquewhite;
+            }
+            
+            .content {
+                overflow: hidden;
+                height: 400px;
+                text-align: center;
+            }
+            
+            .left {
+                width: 30%;
+                height: 100%;
+                background-color: chartreuse;
+                float: left;
+            }
+            
+            .center {
+                width: 70%;
+                height: 100%;
+                background-color: yellow;
+                float: right;
+                s
+            }
+            
+            .right {
+                width: 20%;
+                height: 70%;
+                background-color: violet;
+                float: right;
+            }
+            
+            footer {
+                width: 100%;
+                height: 70px;
+                background-color: orange;
+                text-align: center;
+            }
